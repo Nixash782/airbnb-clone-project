@@ -52,3 +52,27 @@ Guest Reviews & Ratings: Display user-generated reviews for credibility
 Secure and Streamlined Checkout: Fast, secure payment with clear cost breakdown
 
 Accessibility Support: Keyboard navigation, screen reader compatibility, and color contrast
+
+**Property Listing View**	Grid display of available properties with filters
+
+**Listing Detailed View**	Complete property details with images and booking form
+
+**Simple Checkout View**	Streamlined payment and booking confirmation
+
+### Project Roles and Responsibilities.
+
+**Project Manager**	Oversees timeline, coordinates team, manages deliverables
+
+**Frontend Developers**	Implements UI components, ensures responsive design
+
+**Backend Developers**	Builds APIs, manages database, implements business logic
+
+**Designers** Creates mockups, maintains design system, ensures UX quality
+
+**QA/Testers**	Writes test cases, performs testing, reports bugs
+
+**DevOps Engineers**	Manages deployment, CI/CD pipeline, server infrastructure
+
+**Product Owner**	Defines requirements, prioritizes features, represents stakeholders
+
+**Scrum Master**	Facilitates agile processes, removes blockers, organizes meetings

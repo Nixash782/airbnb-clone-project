@@ -22,7 +22,7 @@ Company information,
 Social media links,
 Copyright information e.t.c
 
-# UI/UX Design planning
+## UI/UX Design planning
 **Key Goals:**
 
 Ensure mobile-first, responsive design for all devices
